@@ -22,5 +22,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [solution](https://github.com/cout05/Advice_generator.git)
 - Live Site URL: [live site](https://cout05.github.io/Advice_generator/)
